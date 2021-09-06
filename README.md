@@ -10,7 +10,7 @@ This is introduction
 Sample website with plenty of files for demos
 
 ## Deployement
-This is under Deployement
+This is under Deployement Phase
 
 ## How to contribute
 This is under contribute
