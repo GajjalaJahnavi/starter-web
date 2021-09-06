@@ -2,21 +2,15 @@
 
 This repository is for showing how Git and GitHub work
 
-##Introduction
+## Introduction
 This is introduction
 
 ## Purpose
 
 Sample website with plenty of files for demos
-## Purpose
 
-Sample website with plenty of files for demos
-## Purpose
-
-Sample website with plenty of files for demos
-
-##Deployement
+## Deployement
 This is under Deployement
 
-##How to contribute
+## How to contribute
 This is under contribute
